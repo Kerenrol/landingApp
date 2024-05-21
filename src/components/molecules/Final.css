@@ -1,0 +1,16 @@
+.Final-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Final-image {
+    padding: 5px;
+    max-width: 105%;
+}
+
+.Final-menu {
+    padding: 30px;
+    text-align: justify;
+    font-size: 20px;
+}

@@ -1,0 +1,27 @@
+.lista-container {
+    padding: 10px;
+}
+
+.lista-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.lista-item {
+    text-align: center;
+    background-color: rgb(222, 195, 226);
+}
+
+.lista-item img {
+    margin-top: 10px;
+    padding: 2px;
+    max-width: 60%;
+}
+
+.lista-container span {
+    display: block;
+    margin-top: 10px;
+    text-align: justify;
+    background-color: rgb(222, 195, 226);
+}

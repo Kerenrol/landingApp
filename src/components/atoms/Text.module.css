@@ -1,0 +1,12 @@
+.pg_text {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    padding: 60px;
+    border-radius: 5px;
+    border: 4px solid purple;
+    background-color: purple;
+    font-size: 35px;
+}
